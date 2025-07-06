@@ -1,0 +1,5 @@
+html, body {
+  background: #000 !important;
+  color-scheme: dark;
+}
+html,body{margin:0;padding:0;height:100%;overflow:hidden;font-family:Arial,sans-serif}body{background:#000;background:radial-gradient(circle,#111 0%,#000 100%)}canvas{display:block} 
